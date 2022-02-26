@@ -1,0 +1,7 @@
+id 
+name 
+slug 
+descripcion 
+categoria 
+created_at 
+updated_at 
